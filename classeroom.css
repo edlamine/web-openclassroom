@@ -1,0 +1,35 @@
+
+*{
+    margin-inline: auto;
+    box-sizing: border-box;
+  }
+  
+  body{
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: .9rem;
+    line-height: 1.5;
+    background-color: #1F2039;
+  }
+  
+  h1{
+    color: #7664ab;
+  }
+  
+  .tete{
+    background-color: aliceblue;
+  }
+
+  .bas{
+    background-color: aliceblue;
+  }
+  .middle{
+    color: #F9F8FF;
+  }
+  .important{
+    color: #7664ab;
+  }
+  .ecrivez{
+    background:linear-gradient(to left, #8E86B5,#ACAEED);
+    color: white;
+  }
