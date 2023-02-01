@@ -5,7 +5,7 @@
   }
   
   body{
-    font-family: Roboto;
+    font-family:Arial, Helvetica, sans-serif;
     font-weight: 300;
     font-size: .9rem;
     line-height: 1.5;
@@ -32,4 +32,10 @@
   .ecrivez{
     background:linear-gradient(to left, #8E86B5,#ACAEED);
     color: white;
+    border: 2px solid #ACAEED;
+    border-radius: 50px;
+  }
+  .border{
+    border-right: 1px solid  #A5B4FC;
+    border-bottom: 1px solid #A5B4FC ;
   }
