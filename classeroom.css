@@ -13,7 +13,13 @@
   }
   
   h1{
-    color: #7664ab;
+    font-size: 3.5em;
+    color: #a5b4fc;
+    font-family: 'Montserrat', sans-serif;
+  }
+  h2{
+    color: #F9F8FF;
+
   }
   
   .tete{
@@ -34,8 +40,32 @@
     color: white;
     border: 2px solid #ACAEED;
     border-radius: 50px;
+    font-style: un;
+  }
+  .ecrivez:hover{
+    background: linear-gradient(#696484, #8788ba);
+    text-decoration: none;
   }
   .border{
     border-right: 1px solid  #A5B4FC;
     border-bottom: 1px solid #A5B4FC ;
   }
+  a{
+    color: black;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  .bas a:hover{
+    opacity: 0.5;
+    
+  }
+  .tete a:hover{
+    opacity: 0.5;
+    text-decoration: underline;
+    text-decoration-color: black;
+  }
+  .lien:hover{
+    text-decoration: underline;
+  }
+  
